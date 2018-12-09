@@ -1,0 +1,179 @@
+body{
+  background: thistle;
+}
+.head {
+background-color: deeppink;
+height: 70px;
+}
+.title{
+  float: left;
+  font-size: 35px;
+  font-weight: bold;
+  margin:10px 10px 10px 150px;
+ 
+}
+.ul{
+  float: right;
+  }
+  .li {
+    display: inline;
+    text-decoration: none;
+    margin: 0 60px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .left{
+    padding: 10px;
+    margin:50px 10px 0 230px;
+    height: 220px;
+    width: 400px;
+    background:white;
+    float: left;
+  }
+  .right{
+    padding: 10px;
+    margin:50px 230px 0 10px;
+    height: 220px;
+    width: 400px;
+    background:white;
+    float: right;
+  }
+  .btn{
+    float: right;
+    margin:1px;
+    margin-left:10px;
+    padding: 2px;
+    color: white;
+    background: rgba(4, 4, 245, 0.596);
+    border: hidden;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .btnn{  
+    text-decoration: none;
+    margin-left:8px;
+    color: white;
+    background: rgba(4, 4, 245, 0.596);
+    border: hidden;
+    border-radius: 5px;
+    padding: 2px;
+  }
+  .bottom{
+    text-align: center;
+    margin: 60px;
+    color: teal;
+    font-size: 25px
+  }
+  .trans{
+    padding: 10px;
+    margin:20px 10px 0 300px;
+    height: 90%;
+    width: 700px;
+    background:white;
+  }
+  .trans1{
+    margin:20px 10px 0 300px;
+    height: 90%;
+    width: 700px;
+    background:white;
+  }
+ .createhead{
+   height:60px;
+   padding:15px 15px 15px 170px;
+   box-sizing: border-box;
+   color: white;
+   font-size: 25px;
+   background-color:lightseagreen;
+  }
+  form{
+    padding-left:0 15px;
+  }
+  .inp{
+    border-bottom: 1px dashed lightseagreen;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 400px;
+    margin-left: 100px;
+   height: 25px;
+   font-size: 15px; 
+   padding-left:10px;
+}
+  .inp1{
+    padding-left:10px;
+    border-bottom: 1px dashed lightseagreen;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width: 400px;
+    margin-left:40px;
+    height: 25px;
+    font-size: 15px;
+  }
+  .field{
+    margin: 20px;
+  }
+  .select{
+    margin-left: 76px;
+    padding: 10px;
+  }
+  .button{
+    background-color: rgb(76, 230, 76);
+    border: hidden;
+    margin: 15px 60px 15px 15px;
+    padding: 10px;
+   
+    border-radius: 5px;
+    color: white;
+    display: inline;
+  }
+  .button1{
+    background-color: lightseagreen;
+    border: hidden;
+    margin: 15px 15px 15px 20px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+  }
+  table{
+  border-collapse: collapse;
+   width: 80%;
+   margin-left: 10%; 
+   
+}
+.thead{
+  background-color:lightseagreen;
+  color: white;
+  font-size: 20px;
+}
+.p {
+  font-size: 30px;
+  display: inline;
+  
+}
+.p1 {
+  float: right;
+  background-color: red;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.b {
+ margin-left: 260px;
+}
+.d{
+  padding: 10px;
+}
+.d1{
+  background-color: cornflowerblue;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 60px;
+}
+.d2{
+  background-color: cornflowerblue;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-top: 60px;
+  margin: 60px 140px; 
+}
